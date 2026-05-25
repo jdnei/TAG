@@ -1,4 +1,4 @@
-# TAG TAG机场官方地址(2026年5月24日更新)
+# TAG TAG机场官方地址(2026年5月25日更新)
 最新地址：[tagss.pro](https://tagss.pro/#/auth/yQV7c4ov)  
 官方地址01：[tagxx.vip](https://tagss.pro/#/auth/yQV7c4ov)  
 官方地址02：[tagweb.vip](https://tagweb.vip/#/auth/yQV7c4ov)  
