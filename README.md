@@ -1,8 +1,8 @@
 # TAG TAG机场官方地址(2026年7月28日更新)
 TAG机场官网地址</br>
-最新地址：[tagss.pro](https://tagss.pro/#/auth/yQV7c4ov)</br>
-官方地址01：[tagxx.vip](https://tagss.pro/#/auth/yQV7c4ov)</br>
-官方地址02：[tagweb.vip](https://tagweb.vip/#/auth/yQV7c4ov)</br>
+最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
+官方地址01：[tagxx.vip](https://to.iix.im/tag02)</br>
+官方地址02：[tagweb.vip](https://to.iix.im/tag01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
