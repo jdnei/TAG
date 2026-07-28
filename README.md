@@ -60,8 +60,8 @@ TAG 是一家提供高速稳定网络加速服务的平台，主打国际线路�
 - 禁止分享订阅，违规可能封号
 ## 📊 性能实测与分析  
 #### 1.晚高峰测速表现  
-![image](?raw=ture)  
+![image](https://github.com/jdnei/TAG/blob/main/tag/20240323_65fdb29654648.png?raw=ture)  
 #### 2.流媒体解锁报告  
-![image](?raw=ture)    
+![image](https://github.com/jdnei/TAG/blob/main/tag/20240323_65fdb29654648.png?raw=ture)    
 #### 3.落地入口分析  
-![image](?raw=ture)
+![image](https://github.com/jdnei/TAG/blob/main/tag/20240323_65fdb2b9b3782.png?raw=ture)
