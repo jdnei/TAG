@@ -1,8 +1,15 @@
 # TAG TAG机场官方地址(2026年7月28日更新)
 TAG机场官网地址</br>
-最新地址：[tagss.pro](https://tagss.pro/#/auth/yQV7c4ov)  
-官方地址01：[tagxx.vip](https://tagss.pro/#/auth/yQV7c4ov)  
-官方地址02：[tagweb.vip](https://tagweb.vip/#/auth/yQV7c4ov)  
+最新地址：[tagss.pro](https://tagss.pro/#/auth/yQV7c4ov)</br>
+官方地址01：[tagxx.vip](https://tagss.pro/#/auth/yQV7c4ov)</br>
+官方地址02：[tagweb.vip](https://tagweb.vip/#/auth/yQV7c4ov)</br>
+
+2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
+## Telegram VPN 机场福利社 #AD
+[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
+
+[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
+
 ## 邀请码
 ```bash
 yQV7c4ov
@@ -51,3 +58,10 @@ TAG 是一家提供高速稳定网络加速服务的平台，主打国际线路�
 - 不保证 TikTok 可用
 - 不保证大陆 APP 修改定位
 - 禁止分享订阅，违规可能封号
+## 📊 性能实测与分析  
+#### 1.晚高峰测速表现  
+![image](?raw=ture)  
+#### 2.流媒体解锁报告  
+![image](?raw=ture)    
+#### 3.落地入口分析  
+![image](?raw=ture)
