@@ -1,3 +1,6 @@
+🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
+[Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
+
 # TAG TAG机场官方地址(2026年8月6日更新)
 TAG机场官网地址</br>
 最新地址：[tagss.pro](https://to.iix.im/tag03)</br>
