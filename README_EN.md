@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# TAG VPN Official Address (Updated August 18, 2026)
+# TAG VPN Official Address (Updated August 19, 2026)
 
 TAG VPN Official Website Address</br>
 Latest Address: [tagss.pro](https://to.iix.im/tag03)</br>
