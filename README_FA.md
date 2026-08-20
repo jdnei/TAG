@@ -1,6 +1,6 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
 
-# آدرس رسمی TAG VPN (به‌روزرسانی 20 اوت 2026)
+# آدرس رسمی TAG VPN (به‌روزرسانی 21 اوت 2026)
 
 آدرس وب‌سایت رسمی TAG VPN</br>
 جدیدترین آدرس: [tagss.pro](https://to.iix.im/tag03)</br>
